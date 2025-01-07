@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: #fdf3e7; /* Fondo color crema */
+}
+
+.head-div {
+    background-color: #d35400; /* Naranja quemado */
+    margin: 0; 
+}
+
+.container {
+    margin: 0px;
+}
+
+h1 {
+    font-size: 3.8rem;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0; 
+    padding: 20px;
+    color: #ffffff; /* Blanco */
+}
+
+.nav-div {
+    background: #d35400; /* Naranja claro */
+}
+
+.navegator {
+    display: flex;
+}
+
+.navegator a {
+    color: #ffffff; /* Blanco */
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 1rem;
+    width: 322px;
+}
+
+a:hover {
+    background-color: #e67e22; /* Naranja claro para el hover */
+}
